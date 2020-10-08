@@ -36,17 +36,10 @@
 		margin : 10px;
 		height: 95%;
 	}
- .One{
- 	background-color:green; 
- }
 
- .Two{
- 	background-color: orange; 
- }
-
- .Three{
- 	background-color: black; 
- }
+.row{
+width:100%;
+}
 /********** moblie devices only **********/
 	/*@media  (max-width: 767px) {
 	   .col-lg-12 {
@@ -80,3 +73,14 @@
 	    width: 33.33%;
 	  }
 	}
+ .One{
+ 	background-color:green; 
+ }
+
+ .Two{
+ 	background-color: orange; 
+ }
+
+ .Three{
+ 	background-color: black; 
+ }
